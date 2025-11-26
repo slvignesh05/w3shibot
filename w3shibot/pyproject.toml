@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "w3shibox"
+version = "1.0.1"
+description = "Custom test package for private PyPI index"
+authors = [{ name = "w3shi" }]
+readme = "README.md"
+requires-python = ">=3.7"
