@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "w3shibot"
-version = "1.0.1"
+version = "2.0.5"
 description = "Custom test package for private PyPI index"
 authors = [{ name = "w3shi" }]
 readme = "README.md"
